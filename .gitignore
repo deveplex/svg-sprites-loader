@@ -3,9 +3,6 @@
 
 # User-specific files
 /[Ww]wwroot
-/[Cc]ontent
-/[Ss]cripts
-/[Ff]onts
 
 # projects ex
 bower_modules/
